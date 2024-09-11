@@ -111,6 +111,3 @@ class RecintosZoo {
 }
 
 export { RecintosZoo as RecintosZoo };
-
-const i = new RecintosZoo().analisaRecintos('MACACO', 2);
-console.log(i);
